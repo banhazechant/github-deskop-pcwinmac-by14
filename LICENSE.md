@@ -1,4 +1,4 @@
-# 
+# 原生 GitHub Desktop 插件 Mac OS版 | 精英 GitHub Desktop 插件 PC Windows版。集成 动态模板 和 可视化差异，跨平台性能最大化。
 
 
 
